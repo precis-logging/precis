@@ -1,0 +1,25 @@
+{
+  "name": "precis",
+  "version": "0.0.1",
+  "description": "A different kind of eventing, logging, monitoring, and alerting product.",
+  "main": "startup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precis-logging/precis.git"
+  },
+  "keywords": [
+    "logging",
+    "monitoring",
+    "eventing",
+    "alerting"
+  ],
+  "author": "Jeremy Darling <Jeremy.Darling@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/precis-logging/precis/issues"
+  },
+  "homepage": "https://github.com/precis-logging/precis"
+}
