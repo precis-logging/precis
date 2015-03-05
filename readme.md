@@ -37,7 +37,7 @@ Systems, Analytics Processors, Archival Processor, and any other 1st level
 consumers. Still this is made as easy as possible by making the Event Bus a
 plugin to each project.
 
-[Precis Overview](overview.png)
+![Precis Overview](overview.png)
 
 As you can see in the diagram above Precis works with 3rd party
 applications pushing data to the Event Bus as long as the 3rd party application
@@ -76,7 +76,7 @@ Precis Revival Future Plans
 
 Here is a high level overview of the future plans for the Precis Revival:
 
-[Precis Revival Future Plans](data_store_diagram.png)
+![Precis Revival Future Plans](data_store_diagram.png)
 
 The basic idea is to create a self balancing system that can provide truly long
 term storage that can scale to Zetabyte data stores yet still provide "fast"
