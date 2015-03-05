@@ -20,7 +20,9 @@ architecture and approach were finalized.
 Getting Started
 ===============
 
-
+Code is being wrapped up, and soon there will be projects and packages for both
+a full system deployment (as a development environment) and individual services
+(for production and larger environments).  Just keep an eye out here.
 
 Architecture
 ============
