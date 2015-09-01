@@ -1,6 +1,8 @@
 Precis
 ======
 
+[![Join the chat at https://gitter.im/precis-logging/precis](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/precis-logging/precis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A different kind of eventing, logging, monitoring, and alerting product.  We
 threw out all the rules and started from scratch to build something completely
 different.
